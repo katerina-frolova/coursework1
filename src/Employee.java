@@ -41,6 +41,6 @@ public class Employee {
         return fullName +
                 ", отдел " + department +
                 ", зарплата=" + salary +
-                ", id " + id;
+                ",id " + id;
     }
 }
